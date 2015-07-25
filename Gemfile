@@ -49,5 +49,8 @@ group :development, :test do
 
   # css styling
   gem 'bootstrap-sass', '~> 3.3.5.1'
+
+  # adds searching feature
+  gem 'searchkick', '~> 0.9.0'
 end
 
